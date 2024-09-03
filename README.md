@@ -2,7 +2,15 @@
 
 ###
 
-<h1 align="left">I am a Front-End Web Developer and currently studying development analysis, I am passionate about technology and constantly learning. I love turning ideas into reality through code and I'm always looking for new ways to improve myself and contribute to innovative projects.<br><br>🛠️ My Skills<br>Frontend: HTML, CSS, JavaScript, React, Styled Components<br>Backend: Node.js, Express.js, Sequelize<br>Databases: PostgreSQL, MongoDB<br>Tools and Platforms: Git, GitHub, Docker, Yarn, Render, Vercel<br> OtherTechnologies: Docker, CI/CD</h1>
+<p align="left">I am a Front-End Web Developer and currently studying development analysis, I am passionate about technology and constantly learning. I love turning ideas into reality through code and I'm always looking for new ways to improve myself and contribute to innovative projects.</p>
+
+###
+
+<p align="left">🛠️ My Skills</p>
+
+###
+
+<p align="left">Frontend: HTML, CSS, JavaScript, React, Styled Components<br>Backend: Node.js, Express.js, Sequelize<br>Databases: PostgreSQL, MongoDB<br>Tools and Platforms: Git, GitHub, Docker, Yarn, Render, Vercel<br> OtherTechnologies: Docker, CI/CD</p>
 
 ###
 
@@ -39,10 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elizeu2614&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elizeu2614&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/elizeu2614/elizeu2614/output/snake.svg" alt="Snake animation" />
 
 ###
 
