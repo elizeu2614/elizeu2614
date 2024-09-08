@@ -1,6 +1,10 @@
+<br clear="both">
+
 <h1 align="center">About me</h1>
 
 ###
+
+<br clear="both">
 
 <p align="center">Hi, welcome, my name is Elizeu, I'm 24 years old, i live in brazil, I'm a front end developer, I'm currently studying systems development analysis to enter the programming job market.</p>
 
@@ -55,6 +59,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
@@ -69,6 +75,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="18" />
@@ -80,6 +88,8 @@
 <p align="center">My Programming tools</p>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -103,15 +113,21 @@
 
 ###
 
+<br clear="both">
+
 <p align="center">Anothers</p>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <p align="center">Passionate about programming, technology and contributing to the lives of others. 👨‍💻</p>
 
