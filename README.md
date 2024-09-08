@@ -115,7 +115,3 @@
 <p align="center">Passionate about programming, technology and contributing to the lives of others. 👨‍💻</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/elizeu2614/elizeu2614/output/snake.svg" alt="Snake animation" />
-
-###
