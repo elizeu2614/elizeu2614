@@ -7,9 +7,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elizeu2614&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gruvbox_light&hide_border=false&order=2" height="176" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=elizeu2614&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="174" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elizeu2614&radius=16&theme=gruvbox&area=true&order=5" height="307" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elizeu2614&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gruvbox_light&hide_border=false&order=2" height="176" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=elizeu2614&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=45&date_format=j%20M%5B%20Y%5D&order=3" height="167" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elizeu2614&radius=16&theme=gruvbox&area=true&order=5" height="307" alt="activity-graph graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=elizeu2614&theme=gruvbox&column=4&row=1&margin-w=1&margin-h=1&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
